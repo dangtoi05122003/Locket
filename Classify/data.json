@@ -1,0 +1,32 @@
+[
+    {
+        "user_name": "Thức",
+        "date": "Mar 17, 2025 12:03",
+        "text": "index",
+        "image": "image\\image_0.png"
+    },
+    {
+        "user_name": "You",
+        "date": "Mar 03, 2025",
+        "text": "hello",
+        "image": "image\\image_1.png"
+    },
+    {
+        "user_name": "You",
+        "date": "Dec 12, 2024",
+        "text": "",
+        "image": "image\\image_2.png"
+    },
+    {
+        "user_name": "You",
+        "date": "Nov 03, 2024",
+        "text": "",
+        "image": "image\\image_3.png"
+    },
+    {
+        "user_name": "Thức",
+        "date": "Nov 03, 2024",
+        "text": "",
+        "image": "image\\image_4.png"
+    }
+]
